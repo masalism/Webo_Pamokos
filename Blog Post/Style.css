@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -19,30 +19,27 @@ h1, h2 {
     color: #33ba21;
 }
 
-
-h1{
+h1 {
     font-size: 40px;
     margin-bottom: 20px;
 }
 
-h2{
-    font-size: 25px; 
+h2 {
+    font-size: 25px;
     margin-bottom: 10px;
 }
-
 
 .main-text {
     text-align: justify;
     margin-bottom: 20px;
 }
 
-.author-text { 
+.author-text {
     font-size: 22px;
     float: left;
     margin-top: 35px;
     margin-left: 10px;
 }
-
 
 .container {
     width: 1140px;
